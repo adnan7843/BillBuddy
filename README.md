@@ -168,6 +168,9 @@ Example response (shape may vary):
   }
 }
 ```
+Postman Sample Response
+<img width="1462" height="942" alt="Screenshot 2026-01-11 165608" src="https://github.com/user-attachments/assets/0d6248aa-f417-45bd-b584-b37d320a6e88" />
+
 
 ---
 
